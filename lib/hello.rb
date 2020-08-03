@@ -8,7 +8,7 @@ while i <array.length
 end
   array
 else
-  puts "Hey! No blcok was given!"
+  puts "Hey! No block was given!"
  end
 end
 
